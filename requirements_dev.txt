@@ -1,0 +1,6 @@
+#use this for local setup
+flask
+flask-sqlalchemy
+flask-cors
+Werkzeug==0.16.0
+flask-restplus
